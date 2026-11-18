@@ -31,4 +31,4 @@ stocknest.exe
 - File handling: save product records to a text file.
 
 The browser dashboard is a standalone demo and does not connect to the C++ console program.
-ttps://prateektripathi689.github.io/Stocknest/
+https://prateektripathi689.github.io/Stocknest/
